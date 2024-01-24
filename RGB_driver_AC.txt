@@ -1,0 +1,46 @@
+Board Information Report
+Filename     : D:\Masoud\Baloot\RGB_Controller_AC\RGB_driver_AC.PcbDoc
+Date         : 7/27/2022
+Time         : 10:40:08 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 90.7336mmx49.911mm
+    Components on board, 57
+count : 2
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 110
+    Connections routed, 110
+    Connections remaining, 0
+count : 4
+
+Non-Plated Hole Size, Pads, Vias
+count : 0
+
+Plated Hole Size, Pads, Vias
+    0mm, 97, 0
+    0.5mm, 0, 5
+    0.8mm, 0, 2
+    0.9mm, 18, 0
+    1mm, 25, 0
+    1.1mm, 2, 0
+    1.2mm, 4, 0
+    1.5mm, 10, 0
+    1.7mm, 2, 0
+    3.15mm, 4, 0
+count : 10
+
+Non-Plated Slot Size / Length, Pads
+count : 0
+
+Plated Slot Size / Length, Pads
+count : 0
+
+Non-Plated Square Hole Size, Pads
+count : 0
+
+Net Via Size, Count
+    1.2mm, 39
+count : 1
